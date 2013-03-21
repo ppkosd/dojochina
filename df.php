@@ -1,1 +1,0 @@
-<?php defined ('SYSPATH') or die('No direct script access.');  /**   * Created by JetBrains PhpStorm.   * User: apple   * Date: 13-2-25   * Time: 下午1:33   * To change this template use File | Settings | File Templates.   */  echo "dojochina";  echo"ppkosd";
